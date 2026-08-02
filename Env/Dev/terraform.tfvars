@@ -9,6 +9,12 @@ vrgs = {
     RGname     = "L2rgs"
     RGlocation = "eastus"
   }
+
+  rgs2 = {
+    RGname     = "Branch_RG"
+    RGlocation = "eastus"
+  }
+
 }
 
 vvnet = {
